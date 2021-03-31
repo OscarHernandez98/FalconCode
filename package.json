@@ -1,0 +1,12 @@
+{
+  "name": "sitio_web",
+  "version": "1.0.0",
+  "description": "Sitio web empresarial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pagina para vender desarrollo web",
+  "license": "ISC",
+  "dependencies": {}
+}
